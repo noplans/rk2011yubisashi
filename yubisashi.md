@@ -40,7 +40,7 @@
 
 ## Directions / 道順
 
-+ How can I get to ... from Here?
++ How can I get to ... from here?
 + ここから〜には、どう行けばいいですか?
 
 ***
