@@ -34,7 +34,7 @@
 
 ***
 
-+ Would you like to go to the main hall?
++ Shall we go to the main hall together?
 + 大ホールに一緒に行きませんか?
 
 
@@ -79,7 +79,7 @@
 
 ***
 
-+ Please tell me your favorite programmer.
++ Who is your favorite programmer?
 + 好きなプログラマを教えてください
 + sukina puroguramaa wo osiete kudasai.
 
@@ -102,13 +102,13 @@
 
 ***
 
-+ wheat noodles
++ udon (wheat noodles)
 + うどん
 + udon
 
 ***
 
-+ buckweat noodles
++ soba (buckweat noodles)
 + そば
 + soba
 
@@ -118,7 +118,7 @@
 
 ***
 
-+ I need you to take me to ...
++ Can you to take me to ...
 + ...へ連れてってください
 
 ***
