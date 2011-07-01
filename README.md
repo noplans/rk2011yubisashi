@@ -1,4 +1,4 @@
-# 指差し英会話みたいなやつのRubyKaigi版
+# 指差し英会話みたいなやつのRubyKaigi版 / Point and Speak Phrasebook for RubyKaigi
 シャイな日本人対策も兼ねている。
 
 ひとつの会話について、3文必要:
