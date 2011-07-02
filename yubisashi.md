@@ -10,6 +10,7 @@
 
 + The session will start at 14:00.
 + セッションは二時に始まります。
++ sesshon ha niji ni hajimarimasu.
 
 ***
 
@@ -21,21 +22,25 @@
 
 + What time does this session finish?
 + このセッションはいつ終わりますか?
++ kono sesshon ha itu owarimasu ka?
 
 ***
 
 + I will attend this session.
 + このセッションに出るつもりです。
++ kono sesshon ni deru tumoridesu.
 
 ***
 
 + Will you attend this session?
 + このセッションに参加しますか?
++ kono sesshon ni sanka simasu ka?
 
 ***
 
 + Shall we go to the main hall together?
 + 大ホールに一緒に行きませんか?
++ dai hooru ni issho ni ikimasen ka?
 
 
 ## Directions / 道順
