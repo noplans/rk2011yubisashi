@@ -42,6 +42,12 @@
 + 大ホールに一緒に行きませんか?
 + dai hooru ni issho ni ikimasen ka?
 
+***
+
++ Is this seat taken?
++ この席空いてますか?
++ kono seki aite masu ka?
+
 
 ## Directions / 道順
 
