@@ -165,3 +165,20 @@
 + 練馬のおいしいものマップ
 
 
+## 人探し / Finding people
+
++ Who is Tomonori Arakawa?
++ 荒川智則って誰?
++ Arakawa Tomonori tte dare?
+
+***
+
++ Where is Tomonori Arakawa?
++ 荒川智則はどこにいますか?
++ Arakawa Tomonori ha doko ni imasuka?
+
+***
+
++ I'm here.
++ 私はここにいる
++ Watasi ha koko ni iru
