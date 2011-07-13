@@ -1,4 +1,3 @@
-
 # At the conference hall
 
 + English
@@ -205,7 +204,13 @@
 
 # Food / 食べ物
 
++ I wanna go ~
 + 〜へ行きたいです
++ ~ he ikitai desu
+
++ I wanna go to takoyaki shop.
++ たこ焼き屋に行きたいです．
++ Takoyaki ya ni ikitai desu.
 
 ***
 
@@ -290,3 +295,15 @@
 + I'm here.
 + 私はここにいる
 + Watasi ha koko ni iru
+
+## 借りる / Borrow
+
++ Can I borrow your AC adapter (Magsafe)?
++ あなたのACアダプター(MagSafe)を借りていいですか?
++ anata no ac adapter (MagSafe) wo karite iidesuka?
+
+## お礼
+
++ Thank you.
++ ありがとうございます
++ Arigatou goazimasu.
