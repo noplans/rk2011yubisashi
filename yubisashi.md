@@ -165,14 +165,6 @@
 
 ***
 
-+ distro
-
-***
-
-+ vim/emacs
-
-***
-
 + Who is your favorite programmer?
 + 好きなプログラマを教えてください
 + sukina puroguramaa wo osiete kudasai.
