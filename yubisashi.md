@@ -64,6 +64,11 @@
 + この席空いてますか?
 + kono seki aite masu ka?
 
+***
+
++ May I sit here?
++ ここに座っていいですか?
++ Koko ni suwatte iidesuka?
 
 ## Directions / 道順
 
