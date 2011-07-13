@@ -12,9 +12,9 @@
 
 ***
 
-+ The session will start at 14:00.
-+ セッションは二時に始まります。
-+ sesshon ha niji ni hajimarimasu.
++ The session will start at 2pm.
++ セッションは午後二時に始まります。
++ sesshon ha gogo niji ni hajimarimasu.
 
 ***
 
