@@ -1,3 +1,4 @@
+
 # At the conference hall
 
 + English
@@ -67,29 +68,37 @@
 
 + What is your favorite method?
 + 好きなメソッドは?
++ Suki na method ha?
 
 ***
 
 + Do you use Ruby for business porposes?
 + お仕事でRubyを使っていますか?
++ Osigoto de Ruby wo tukatte imasuka?
 
 ***
 
 + What is your favorite library?
 + 好きなライブラリは?
++ Sukina library ha?
 
 ***
 
 + What library are you interested in?
-+ 気になるライブラリは?
++ 気に入っているライブラリは?
++ kiniitteru library ha?
 
 ***
 
++ What problems do you have?
 + 最近、困っていることは?
++ Saikin, komatteiru kotoha?
 
 ***
 
++ map or collect?
 + map派? collect派?
++ map ha? collect ha?
 
 ***
 
@@ -97,55 +106,73 @@
 
 ***
 
++ Vim? Emacs?
 + vim派? emacs派?
++ vim ha? emacs ha?
+
++ Use vim. Why not? Why emacs? Yes, we're vim.
++ Vimを使います．何故つかわないの? なんでEmacs? そう，Vimですね．
++ Vim wo tukaimasu. Naze tukawanaino? Nande Emacs? Sou, Vim desune.
 
 ***
 
++ What useful technique did you know recently?
 + 最近知った便利技は?
++ Saikin sitta benri waza ha?
 
 ***
 
++ Why were you started using Ruby?
 + Rubyとの出会いは?
++ Ruby to no deai ha?
 
 ***
 
-+ What keyboard layout do you like?
-+ 好きなキー配列は?
++ What keyboard layout are you using?
++ どのキー配列を使っていますか?
++ Dono Key hairetu wo tukatte imasuka?
 
 ***
 
 + What OS do you use normally?
 + 普段使いのOSは?
++ Fudan dukai no OS ha?
 
 ***
 
 + What is your community?
 + 参加しているコミュニティは?
++ Sanka siteiru community ha?
 
 ***
 
 + What is your interests recently?
 + 最近、興味のあることは?
++ Saikin, Kyoumi no aru kotoha?
 
 ***
 
 + What is your favorite version control system?
 + 愛用しているバージョン管理システムは?
++ Aiyou siteiru version kanri system ha?
 
 ***
 
 + How many times do you attend RubyKaigi?
 + RubyKaigiへの参加は何回目?
++ RubyKaigi he no sanka ha nankai me?
 
 ***
 
 + What sessions do you look forward to watching?
 + 今回、楽しみにしているセッションは?
++ konkai, tanosimi ni siteiru session ha?
 
 ***
 
 + Do you use Ruby 1.9?
 + Ruby 1.9を使っている?
++ Ruby 1.9 wo tukatteiru?
 
 ***
 
@@ -157,11 +184,17 @@
 
 + Can I have your ...?
 + あなたの〜（連絡先など）を教えてください。
++ Anatano ~ wo osiete kudasai
+
++ Can I have your twitter-id?
++ あなたのtwitter-idを教えてください．
++ anata no twitter-id wo osiete kudasai.
 
 ***
 
 + I use Mac OS X.
-+ mac os xを使っています。
++ Mac OS X を使います.
++ Mac OS X wo tukaimasu.
 
 ***
 
