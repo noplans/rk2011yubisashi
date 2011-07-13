@@ -1,5 +1,9 @@
 # At the conference hall
 
++ English
++ Japanese
++ Japanese (romaji)
+
 ## Sessions / セッション
 
 + main hall and sub hall
