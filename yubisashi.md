@@ -71,7 +71,7 @@
 
 ***
 
-+ Do you use Ruby for business porposes?
++ Do you use Ruby for business purposes?
 + お仕事でRubyを使っていますか?
 + Osigoto de Ruby wo tukatte imasuka?
 
