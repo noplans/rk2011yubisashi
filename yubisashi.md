@@ -12,6 +12,16 @@
 
 ***
 
++ When ~'s session starts?
++ ~ のセッションはいつからですか?
++ ~ no session ha itu kara desuka?
+
++ When Matz's session starts?
++ matz のセッションはいつからですか?
++ Matz no session ha itukara desuka?
+
+***
+
 + The session will start at 2pm.
 + セッションは午後二時に始まります。
 + sesshon ha gogo niji ni hajimarimasu.
