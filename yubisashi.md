@@ -28,7 +28,7 @@
 
 ***
 
-+ expected time of finishing
++ expected time of finish
 + 終了予定時刻
 + shuuryoo yotei jikoku
 
