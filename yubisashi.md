@@ -16,6 +16,8 @@
 + ~ のセッションはいつからですか?
 + ~ no session ha itu kara desuka?
 
+***
+
 + When Matz's session starts?
 + matz のセッションはいつからですか?
 + Matz no session ha itukara desuka?
