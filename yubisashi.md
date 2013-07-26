@@ -192,7 +192,7 @@
 
 ***
 
-+ My github account is ... 
++ My github account is ...
 + 私のgithubアカウントは...です。
 + watashi no github akaunto wa ... desu.
 
